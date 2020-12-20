@@ -1,5 +1,8 @@
 ### YuGyeong Kim👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyk4350@gmail.com)](mailto:kyk4350@gmail.com)
+
+<br>
+<hr>
 <!--
 **kyk4350/kyk4350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
