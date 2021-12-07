@@ -5,8 +5,13 @@
 
 ### Work experience
 - (2020.05-2020.11) 구디아카데미 빅데이터 플랫폼 개발자 양성과정
+- (2021.03-현재) PopsLine
 
-### interest
+### About me
+- Notion: https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f
+- Blog: https://gangbalja.tistory.com/  
+
+### Interest
 
 <!--
 **kyk4350/kyk4350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
