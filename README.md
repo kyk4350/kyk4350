@@ -36,7 +36,7 @@
 
 ### Status
 
-[![kyk4350's github stats](https://github-readme-stats.vercel.app/api?username={kyk4350})](https://github.com/kyk4350/github-readme-stats)
+[![yugae's github stats](https://github-readme-stats.vercel.app/api?username=kyk4350)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
