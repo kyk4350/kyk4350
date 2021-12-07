@@ -1,6 +1,6 @@
 ### YuGyeong Kim👋
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyk4350@gmail.com)](mailto:kyk4350@gmail.com)
-
+[![Notion Badge](https://img.shields.io/badge/-Notion-1877f2?logo=notion&logoColor=white&link=https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)](https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)
 
 ### Work experience
 - (2020.05-2020.11) 구디아카데미 빅데이터 플랫폼 개발자 양성과정
@@ -36,7 +36,7 @@
 
 ### Status
 
-[![yugae's github stats](https://github-readme-stats.vercel.app/api?username=kyk4350)](https://github.com/kyk4350/)
+[![yugae's github stats](https://github-readme-stats.vercel.app/api?username=kyk4350)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
