@@ -2,12 +2,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyk4350@gmail.com)](mailto:kyk4350@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/-Notion-1877f2?style=flat-square&logo=notion&logoColor=white&link=https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)](https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)
 
-### Work experience
+### 👩🏻‍💻Work experience
 - (2021.03-현재) PopsLine
 - (2020.05-2020.11) 구디아카데미 빅데이터 플랫폼 개발자 양성과정
 
 
-### Stack
+### ⚒️Stack
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
