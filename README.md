@@ -3,8 +3,8 @@
 <!-- [![Notion Badge](https://img.shields.io/badge/-Notion-1877f2?style=flat-square&logo=notion&logoColor=white&link=https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)](https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f) -->
 
 ### 👩🏻‍💻 Work experience
-- (2021.03-현재) PopsLine
-- (2020.05-2020.11) 구디아카데미 빅데이터 플랫폼 개발자 양성과정
+<!-- - (2021.03-현재) PopsLine
+- (2020.05-2020.11) 구디아카데미 빅데이터 플랫폼 개발자 양성과정 -->
 
 
 ### ⚒️ Stack
