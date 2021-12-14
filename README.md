@@ -1,6 +1,6 @@
 ### 👋 YuGyeong Kim
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kyk4350@gmail.com)](mailto:kyk4350@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/-Notion-1877f2?style=flat-square&logo=notion&logoColor=white&link=https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)](https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)
+<!-- [![Notion Badge](https://img.shields.io/badge/-Notion-1877f2?style=flat-square&logo=notion&logoColor=white&link=https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f)](https://accidental-cap-f96.notion.site/Kim-Yugyeong-d1ef62af2c93418ab630b38e32b7b71f) -->
 
 ### 👩🏻‍💻 Work experience
 - (2021.03-현재) PopsLine
