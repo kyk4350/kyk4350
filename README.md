@@ -31,7 +31,7 @@
 
 ### 🚀 Status
 
-[![yugae's github stats](https://github-readme-stats.vercel.app/api?username=kyk4350)](https://github.com/anuraghazra/github-readme-stats)
+[![yugae's github stats](https://github-readme-stats.vercel.app/api?username=kyk4350&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
